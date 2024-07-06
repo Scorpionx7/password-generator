@@ -35,14 +35,14 @@ Esse projeto é um Gerador de Senhas que usa letras maiúsculas, minúsculas, n�
    Vá para File > Project Structure.
    Em Project Settings > Project, selecione o JDK 17 como o SDK do projeto.
 
-.Rodando o Projeto
+4. Rodando o Projeto
     1. Compile o Projeto:
-          Vá para Build > Build Project ou use o atalho Ctrl+F9.
+         - Vá para Build > Build Project ou use o atalho Ctrl+F9.
     2. Execute o Projeto:
-          Clique com o botão direito do mouse na classe Main e selecione Run 'Main' ou use o atalho Shift+F10.
+         - Clique com o botão direito do mouse na classe Main e selecione Run 'Main' ou use o atalho Shift+F10.
 
 ### Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a MIT License.
 
 ###  Autor
    Esther Rezende
